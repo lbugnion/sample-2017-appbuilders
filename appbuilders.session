@@ -1,0 +1,61 @@
+Xamarin Overview
+
+Preparation
+
+	• Reboot
+	• Start the Android emulator
+	• Open Youtube page Elm, Switzerland - February 2017
+	• Load XamarinOverview session in PresentationBuddy
+	• Make sure that Surface is connected to internet
+	• Open presentation
+	• Make sure that HelloAndroid1 is installed and works
+	• Make sure that HelloAndroid is installed and works
+	• Make sure that HelloWindows is installed and works
+	• Delete projects from Visual Studio folder
+	• Create a new application HelloAndroid in Solution HelloXamarin
+	• Font 17
+	• Make sure that snippets are loaded
+	• Open the designer
+	• Open HelloXamarin with iOS + Windows
+	• Font 17
+	• Open HelloXamarinForms
+	• Font 17
+	• Make sure that HelloXamarinForms is installed and works
+		? Android
+		? Windows
+	• Open first iOS video
+
+
+Introduction	2'	0:02
+Xamarin history, principles, tools	6'	0:08
+Setting up	5'	0:13
+Demo	10'	0:23
+        • Show the designer
+        • Add button MyButton
+        • Add TextView MyText
+        • Add layout_margin_top
+        • Gravity
+        • TextSize 32dp
+        • Show the markup
+        • Open MainActivity
+        • Uncomment the SetContentView
+        • Build simple example
+        • Run --> HelloXamarin1
+        • Make more complex example
+        • Use Nuget to add HttpClient
+        • Run --> HelloXamarin
+        • Move to other solution with iOS and UWP
+        • Create Data project
+        • Manage Nuget project
+                ? Add to Data
+                ? Remove from HelloAndroid
+        • Move code to Data, YoutubeService
+        • Show iOS project --> HelloIos
+        • Show UWP project --> HelloWindows
+
+Xamarin.Forms	7'	0:30
+Demo	5'	0:35
+        • Show project
+        • Run
+What else	3'	0:38
+Resources, Conclusion	2'	0:40
