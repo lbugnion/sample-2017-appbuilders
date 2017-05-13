@@ -15,8 +15,7 @@ namespace Data
 
             try
             {
-                var html = await client.GetStringAsync("http://www.galasoft.ch");
-                //var html = await client.GetStringAsync("https://www.youtube.com/watch?v=_ntWKJoqsLQ");
+                var html = await client.GetStringAsync("https://www.youtube.com/watch?v=_ntWKJoqsLQ");
 
                 var div = "<div class=\"watch-view-count\">";
 
