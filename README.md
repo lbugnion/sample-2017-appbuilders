@@ -1,4 +1,4 @@
-# AppBuilders 2017, Lausanne, Switzerland
+# An overview of the Xamarin programming platforms 
 
 My code samples for the AppBuilders conference in Lausanne, Switzerland.
 
